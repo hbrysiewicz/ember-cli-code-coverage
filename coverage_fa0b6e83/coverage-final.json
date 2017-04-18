@@ -1,0 +1,2 @@
+{
+"tests/dummy/app/resolver.js":{"path":"tests/dummy/app/resolver.js","s":{},"b":{},"f":{},"fnMap":{},"statementMap":{},"branchMap":{},"code":["import Resolver from 'ember-resolver';","","export default Resolver;",""],"l":{}}}
